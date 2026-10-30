@@ -1,2 +1,2 @@
 # hello-world
-a starting stone for me learn Github flow. 
+This is a learning project for me to learn the github flow . 
